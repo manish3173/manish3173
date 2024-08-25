@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Y Manish Kumar</h1>
 <h3 align="center">ML Enthusiast | Data Science | Web Development | CSE'25 PESU</h3>
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science at [PES University](PES University)
