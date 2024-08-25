@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Web Development, Data Science**
 
-- 💬 Ask me about **Web Dev**
-
 - 📫 How to reach me **ymanishk602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
