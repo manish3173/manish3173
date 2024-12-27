@@ -2,9 +2,7 @@
 <h3 align="center">ML Enthusiast | Data Science | Web Development | CSE'25 PESU</h3>
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science at PES University
-
 - 🌱 I’m currently learning **Web Development, Data Science**
-
 - 📫 How to reach me **ymanishk602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
